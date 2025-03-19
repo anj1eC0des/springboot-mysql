@@ -1,4 +1,4 @@
-package com.example.persistenceDemo;
+package com.example.demo;
 
 import java.util.List;
 
